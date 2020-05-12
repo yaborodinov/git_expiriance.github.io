@@ -242,3 +242,7 @@ body {
   width: 900px;
   background-color: rgb(236, 151, 151);
 }
+.col-md-900> h1{
+  color: #fff;
+  background-color: #2c71b8 ;
+}
