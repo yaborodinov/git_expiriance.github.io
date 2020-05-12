@@ -218,3 +218,27 @@ body {
   left: -10px;
   top: -5px;
 }
+
+/* main */
+.row_main{
+  width: 100%;
+}
+.row_main::after{
+  content: "";
+  display: block;
+  clear: both;
+}
+
+/* col-md-270 */
+
+.col-md-270{
+  width: 270px;
+  background-color: #ccc;
+}
+
+
+/* col-md-900 */
+.col-md-900{
+  width: 900px;
+  background-color: rgb(236, 151, 151);
+}
